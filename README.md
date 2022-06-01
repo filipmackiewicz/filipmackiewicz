@@ -2,8 +2,8 @@
 
 ## 🙍 About me
 My name is Filip Mackiewicz and I'am 24 years old junior front-end developer. Currently i am working as a prestashop developer, but still learing new stuff. I systematically create projects using various technologies. I am currently learning and creating applications in react.js. 
-- 💬 Stay in touch! <a href="https://www.filipmackiewicz.pl/">Filipmackiewicz.pl</a>.
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mackiewicz.filip@gmail.com)](mailto:mackiewicz.filip@gmail.com)
+- 💬 Stay in touch! <a href="https://www.filipmackiewicz.pl/">Filipmackiewicz.pl</a><br />
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mackiewicz.filip@gmail.com)](mailto:mackiewicz.filip@gmail.com)<br />
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filip-mackiewicz/)](https://www.linkedin.com/in/filip-mackiewicz/)
 
 ## 🔧 Technologies
